@@ -11,8 +11,7 @@ mouse.click(4184, 1602)
 timeLoad.sleep(1)
 mouse.typewrite('google')
 timeLoad.sleep(1)
-mouse.moveTo(4001, 749)
-mouse.click(4001, 749)
+mouse.press("enter")
 
 #abrindo outra pasta dentro do google
 timeLoad.sleep(3)
