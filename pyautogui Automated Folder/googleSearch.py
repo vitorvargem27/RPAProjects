@@ -21,3 +21,4 @@ mouse.typewrite('facebook.com')
 #pressionando enter para acessar o facebook
 timeLoad.sleep(1)
 mouse.press("enter")
+
