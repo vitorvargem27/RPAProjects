@@ -18,7 +18,7 @@ Projetos compostos por : Vitor Vargem Julio Barbosa;
 
 1. Clone o repositório e entre na pasta do projeto:
 ```sh
-git clone 
+git clone https://github.com/vitorvargem27/RPAProjects.git
 cd RPAProjects
 ```
 
