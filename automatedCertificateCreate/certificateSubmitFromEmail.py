@@ -1,7 +1,6 @@
 from docx import Document
 from docx.shared import Pt
 from openpyxl import load_workbook
-import os
 import win32com.client as win32
 
 openOutlook = win32.Dispatch('outlook.application')
