@@ -21,4 +21,20 @@ Projetos compostos por : Vitor Vargem Julio Barbosa;
 git clone https://github.com/vitorvargem27/RPAProjects.git
 cd RPAProjects
 ```
-
+2. Instale o Python na sua máquina:
+```
+Acesse o link  https://www.python.org/downloads/
+```
+3. Instale as bibliotecas Python na sua máquina via prompt com o comando:
+```
+pip install pyautogui -> Instalação PyAutoGui;
+pip install pandas -> Instalação Pandas;
+pip install openpyxl -> Instalação Openpyxl;
+pip install python-docx -> Instalação Docx;
+pip install pypiwin32 -> Instalação Win32;
+```
+4. Instale o Selenium e o WebDriver na sua máquina:
+```
+pip install selenium ;
+Acesse o link https://sites.google.com/a/chromium.org/chromedriver/downloads;
+```
