@@ -14,7 +14,7 @@ Projetos compostos por : Vitor Vargem Julio Barbosa;
 - Openpyxl;
 - Win32
 
-## Passo a passo para acessar o repositório :
+## Passo a passo para acessar o repositório e suas dependências:
 
 1. Clone o repositório e entre na pasta do projeto:
 ```sh
